@@ -41,8 +41,8 @@ Install `Termux` & `Termux:API` on your phone. It's recommended to install *Term
 
 > This setup is created and tested on :
 >
-> Device - **Redmi Note 9 Pro** <br />
-> Android - **Android 10 (Q)** <br />
+> Device - **** <br />
+> Android - **Android 11 (Q)** <br />
 > CPU Type - **aarch64**
 
 ### Installation
